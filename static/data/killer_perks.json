@@ -1,0 +1,933 @@
+{
+  "A Nurse's Calling": {
+    "character": "Nurse",
+    "description": "Unlocks potential in your Aura-reading ability.\n \u2022 The Auras of Survivors who are healing or being healed are revealed to you within 20/24/28 metres.\n \"Still attached to the fragments of her past life, she is drawn to those in need of help.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Agitation": {
+    "character": "Trapper",
+    "description": "You get excited in anticipation of hooking your prey.\nWhen carrying a Survivor, you benefit from the following effects:\n \u2022 Increases your Movement speed by 6/12/18 %.\n \u2022 Increases your Terror Radius by +12 metres.\n \"At some point, the excitement of hooking one of us becomes more important than the desire to kill us.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Alien Instinct": {
+    "character": "Xenomorph",
+    "description": "You are so stealthy, sometimes it seems like you appear out of nowhere.\nWhenever you hook a Survivor, Alien Instinct activates:\n \u2022 The Aura of the farthest injured Survivor is revealed to you for 5 seconds.\n \u2022 That Survivor suffers from the Oblivious Status Effect for 16/18/20 seconds.\n \"Yellow light's for my eyes only.\" — Dallas",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "All-Shaking Thunder": {
+    "character": "Houndmaster",
+    "description": "Enemies on land and sea learned to tremble before your might.\nAfter falling from a height, All-Shaking Thunder activates for 8/12/16 seconds:\n \u2022 Increases the range of your Lunge Attack by +75 %.\nAll-Shaking Thunder has a cool-down of 5 seconds.\n \"Go on. Run. Tell your friends I'm coming for them.\" — Portia Maye",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Awakened Awareness": {
+    "character": "Mastermind",
+    "description": "Your genes have been altered to heighten your senses in intense situations.While carrying a Survivor, you benefit from the following effect:\n \u2022 The Auras of all Survivors within 16/18/20 metres of your location are revealed to you.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Bamboozle": {
+    "character": "Clown",
+    "description": "After vaulting a Window, Bamboozle calls upon The Entity to block that Window for the next 8/12/16 seconds.\n \u2022 Blocked Windows cannot be vaulted by Survivors.\n \u2022 Increases your general Vaulting speed by 5/10/15 %.\nBamboozle only blocks one Window at a time and does not apply either of its effects to vaulting Pallets.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Barbecue & Chilli": {
+    "character": "Cannibal",
+    "description": "A deep bond with The Entity unlocks potential in one's Aura-reading ability.\n \u2022 After hooking a Survivor, all Survivors who are at least 60/50/40 metres away from that Hook have their Aura revealed to you for 5 seconds.\n \"I just can't take no pleasure in killing. There's just some things you gotta do. Don't mean you have to like it.\" — Drayton Sawyer",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Batteries Included": {
+    "character": "Good Guy",
+    "description": "Being somewhere between man and machine has its upsides.\nWhenever you are within 12 metres of a completed Generator, you are granted a +5 % Haste Status Effect.\n \u2022 This effect lingers for 1/3/5 second(s) after leaving the Generator's range.\n \"Surprise! Did you miss me, Andy?\" — Chucky",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Beast of Prey": {
+    "character": "Huntress",
+    "description": "Your lust for a kill is so intense that your connection with The Entity is momentarily lost, making you totally unpredictable.\nUpon gaining the Bloodlust Status Effect, Beast of Prey activates:\n \u2022 Grants the Undetectable Status Effect for as long as Bloodlust is active.\nBeast of Prey grants 30/40/50 % bonus Bloodpoints for actions in the Hunter Category.\nThe bonus Bloodpoints are only awarded during the Trial.\n \"Where did she go?\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Bitter Murmur": {
+    "character": "All",
+    "description": "Unlocks potential in your Aura-reading ability:\n \u2022 Each time a Generator is completed, the Auras of all Survivors within 16 metres of that Generator are revealed to you for 5 seconds.\n \u2022 Once the last Generator is completed, the Auras of all Survivors are revealed to you for 5/7/10 seconds.",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Blood Echo": {
+    "character": "Oni",
+    "description": "The agony of one is inflicted onto others.\n \u2022 Whenever you hook a Survivor, all other injured Survivors suffer from the Exhausted and Haemorrhage Status Effects for 20/25/30 seconds.\n \"Attack an enemy with precision and their allies will feel it.\" — Renjiro's Doctrine 6:3",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Blood Warden": {
+    "character": "Nightmare",
+    "description": "As soon as one Exit Gate is opened, Blood Warden activates.\n \u2022 The Auras of Survivors standing within the Exit-Gate area are revealed to you.\nOnce per Trial, hooking a Survivor while Blood Warden is active calls upon The Entity to block the exits for all Survivors for 40/50/60 seconds.\n \"This is my world. And you can't ever leave.\" — Freddy Krueger",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Bloodhound": {
+    "character": "Wraith",
+    "description": "Like a hunting scent hound, you smell traces of blood at a great distance.\n \u2022 Pools of Blood are shown in bright red and can be tracked for 2/3/4 seconds longer than normal.\n \"Pebbles shimmering in the moonlight; my life drips down in a trail so easy to follow.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Brutal Strength": {
+    "character": "Trapper",
+    "description": "Your great strength allows you to shred through your prey's defences.\n \u2022 Increases the Action speeds for breaking Breakable Walls and dropped Pallets, and damaging Generators by 10/15/20 %.\n \"It is more than muscles. A dark power motivates the beast.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Call of Brine": {
+    "character": "Onryō",
+    "description": "Your psychic abilities influence technology in devastating ways.\nAfter performing the Damage Generator action on a Generator, Call of Brine activates for 60 seconds.\n \u2022 The damaged Generator regresses at 115/120/125 % of the normal Regression speed and its Aura is highlighted to you in yellow.\n \u2022 Receive a Loud Noise Notification each time a Survivor hits a Good Skill Check on the affected Generator.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Corrupt Intervention": {
+    "character": "Plague",
+    "description": "Your prayers invoke a dark power that meddles with the Survivors' chances of survival.\n \u2022 At the start of the Trial, the 3 Generators located farthest from you are blocked by The Entity for 80/100/120 seconds.\nCorrupt Intervention deactivates prematurely once the first Survivor is put into the Dying State.\n \"It shall be known across the land that the Gods curse the unfaithful.\" — (The Tablet of Adiris, 3.7)",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Coulrophobia": {
+    "character": "Clown",
+    "description": "Even those without a fear of clowns know to be terrified of you.\nFor all Survivors within your Terror Radius, the following effects apply:\n \u2022 Reduces their Healing speed by 30/40/50 %.\n \u2022 Increases the Rotation speed of Healing Skill Checks by +50 %.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Coup de Grâce": {
+    "character": "Twins",
+    "description": "As the end nears, you go in for the kill.\nWhenever a Generator is completed, Coup de Grâce gains +2 Tokens, up to a maximum of 10 Tokens per Trial:\n \u2022 Increases the range of your next Lunge Attack by 70/75/80 %, while consuming -1 Token.\nCoup de Grâce can only hold a maximum of 5 Tokens at a time.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Cruel Limits": {
+    "character": "Demogorgon",
+    "description": "Your ties to the otherworldly manifest when your prey attempts to get away.\nWhenever a Generator is completed, Cruel Limits activates:\n \u2022 Blocks every Vault location on the Map for all Survivors for the next 20/25/30 seconds.\n \u2022 The Auras of the blocked Vault locations are highlighted to you in yellow.\n \"The specimen seems to be able to affect the state of nearby objects, as if they existed in some other form within a dimension alternate to our own.\" — Hawkins National Laboratory",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Dark Arrogance": {
+    "character": "Lich",
+    "description": "When everything is going right, you are an inescapable inevitability.\nIncreases your Vaulting speed in exchange for increased vulnerability to being blinded and stunned:\n \u2022 Permanently increases the duration of Killer Blinds by any means and the duration of Pallet Stuns by +25 %.\n \u2022 Permanently increases your Vaulting speed by 15/20/25 %.\n \"Run all you want. I will not be denied.\" — Vecna",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Dark Devotion": {
+    "character": "Plague",
+    "description": "The display of your Powers creates a whirlwind of panic that spreads throughout the land.\nWhenever the Obsession loses a Health State by any means and thus enters the Injured State, Dark Devotion activates:\n \u2022 Your Terror Radius transfers to the Obsession for 20/25/30 seconds, and its radius is set to 32 metres.\n \u2022 Grants the Undetectable Status Effect for the same duration.\nThe Obsession with your transferred Terror Radius is also considered to be 'inside the Terror Radius' for other purposes.\nYou can only be obsessed with one Survivor at a time.\n \"And terror shall take hold of a defiant non-believer, who shall falsely announce my arrival.\" — (The Tablet of Adiris, 48.9)",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Darkness Revealed": {
+    "character": "Dredge",
+    "description": "In your presence, places once thought to be safe are perhaps the most dangerous.\nSearching a Locker has the following effect:\n \u2022 The Auras of Survivors within 8 metres of any Locker are revealed to you for 6/7/8 seconds.\nDarkness Revealed has a cool-down of 30 seconds.\n \"Stay in the light, my children. In darkness, your fear will expose you.\" — Otto Stamper",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Dead Man's Switch": {
+    "character": "Deathslinger",
+    "description": "After hooking a Survivor, Dead Man's Switch activates:\n \u2022 Blocks the first Generator any Survivor stops repairing for 40/45/50 seconds.\n \u2022 The Blocked Generator is highlighted to you in white.\nDead Man's Switch cannot activate if its effect is still active from a previous activation.\n \"I've seen the look on a man's face when he realises he's going to die.\" — Caleb Quinn",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Deathbound": {
+    "character": "Executioner",
+    "description": "Those whose lives are intertwined in darkness are destined to suffer together.\nWhenever a Survivor finishes healing another Survivor for the equivalent of 1 Health State, Deathbound activates:\n \u2022 Causes the Healer to scream and reveal their location.\n \u2022 Causes the Healer to suffer from the Oblivious Status Effect whenever they are farther than 16/12/8 metres from the other Survivor.\nDeathbound deactivates after the Healer loses a Health State.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Deerstalker": {
+    "character": "All",
+    "description": "Unlocks potential in your Aura-reading ability:\n \u2022 The Auras of all Survivors in the Dying State within 20/28/36 metres of your location are revealed to you.",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Discordance": {
+    "character": "Legion",
+    "description": "Any Generator within a range of 64/96/128 metres that is being repaired by 2 or more Survivors is marked by a yellow Aura.\n \u2022 When the Generator is first highlighted, Discordance triggers a Loud Noise Notification on the Generator.\n \u2022 After the Generator is no longer within range or is being repaired by just 1 Survivor, the highlighted Aura will linger for another 4 seconds.\n \"Smartasses get killed. We always see to that.\" — The Legion",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Dissolution": {
+    "character": "Dredge",
+    "description": "Everything turns to dust. It is as inescapable as the coming of the night.\nAfter 3 seconds of injuring a Survivor by any means, Dissolution activates for 12/16/20 seconds:\n \u2022 Instantly breaks the next Pallet that Survivor performs a Fast Vault across while inside your Terror Radius.\n \"The Garden shall be a place of perfect Joy; through Joy, nothing shall stand in our way.\" — Otto Stamper",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Distressing": {
+    "character": "All",
+    "description": "Your horrifying emanation strikes at a supernaturally long distance.\n \u2022 Increases your Terror Radius by 22/24/26 %\n \u2022 Grants 100 % bonus Bloodpoints for all actions in the Deviousness Category.",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Dominance": {
+    "character": "Dark Lord",
+    "description": "The power you wield over the land strikes terror in the hearts of all who cross your path.\nThe first time each Chest and each Totem are interacted with by a Survivor, Dominance triggers its effect:\n \u2022 Calls upon The Entity to block it for 8/12/16 seconds.\n \u2022 The Aura of the blocked Prop is revealed to you in white.\n \"Tragic, is it not? How powerless you must feel.\" — Dracula",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Dragon's Grip": {
+    "character": "Blight",
+    "description": "Performing the Damage Generator action on a Generator activates Dragon's Grip for the next 30 seconds:\n \u2022 The first Survivor interacting with the damaged Generator will scream, revealing their location for 4 seconds, and suffer from the Exposed Status Effect for 60 seconds.\nDragon's Grip has a cool-down of 60/50/40 seconds.\n \"Such potential in this compound... even the slightest trace causes unnatural effects.\" — Journal of Talbot Grimes",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Dying Light": {
+    "character": "Shape",
+    "description": "Each time you hook a Survivor other than your Obsession, you gain +1 Token:\n \u2022 For as long as the Obsession is alive, all other Survivors suffer from a stack-able 2/2.5/3 % per Token Action Speed penalty to Repairing, Healing, and Sabotaging, up to a maximum of 22/27.5/33 % or 11 Tokens.\n \u2022 The Obsession is unaffected by this penalty and instead granted a permanent +33 % Action Speed bonus to Unhooking and Healing other Survivors.\nYou can only be obsessed with one Survivor at a time.\n \"This isn't a man...\" — Dr Sam Loomis",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Enduring": {
+    "character": "Hillbilly",
+    "description": "You are resilient to pain.\n \u2022 Reduces the duration of Pallet Stuns by 40/45/50 %.\nEnduring has no effect while carrying a Survivor.\n \"He stops at nothing.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Eruption": {
+    "character": "Nemesis",
+    "description": "The NE-α parasite provides you with the intelligence and awareness needed to set a trap.\nPerforming the Damage Generator action on a Generator applies Eruption:\n \u2022 All affected Generators are highlighted to you in yellow.\n \u2022 The next time any Survivor enters the Dying State by any means, all affected Generators explode and immediately start regressing, which removes the highlighted Aura.\n \u2022 Instantly regresses the Generator by -10 % of its maximum possible Progression.\n \u2022 Causes all Survivors repairing the afflicted Generators to scream and reveal their Aura to you for 8/10/12 seconds.\nEruption has a cool-down of 30 seconds.\n \"It can use weapons?\" — Jill Valentine",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Fire Up": {
+    "character": "Nightmare",
+    "description": "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation.\nEach time a Generator is completed, Fire Up grows in power and gains 1 Token, up to a maximum of 5 Tokens.\nEach Token applies a stack-able buff of 3/3.5/4 % per Token, up to a maximum of 15/17.5/20 %, to the following Action speeds:\n \u2022 Picking up and dropping Survivors.\n \u2022 Breaking Breakable Walls and Pallets, and damaging Generators.\n \u2022 Vaulting Windows.\n \"Now why don't you just fucking die?\" — Freddy Krueger",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Forced Hesitation": {
+    "character": "Singularity",
+    "description": "You have learnt the emotional weaknesses of the organics, and how to exploit them.\n \u2022 Whenever a Survivor is put into the Dying State by any means, all other Survivors within 16 metres of them suffer from a -20 % Hindered Status Effect for 10 seconds.\nForced Hesitation has a cool-down of 40/35/30 seconds.\n \"THE ORGANIC MIND'S CAPACITY FOR EMPATHY GOES BEYOND HINDRANCE!\" — HUX-A7-13",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Forced Penance": {
+    "character": "Executioner",
+    "description": "Those who stand in the way of duty will suffer harsh judgement.\nSurvivors who take a Protection Hit suffer from the Broken Status Effect for the next 60/70/80 seconds.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Forever Entwined": {
+    "character": "Ghoul",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Franklin's Demise": {
+    "character": "Cannibal",
+    "description": "Your vicious Basic Attacks make Survivors drop their Items on impact:\n \u2022 Causes dropped Items to slowly lose their Charges over 150/120/90 seconds.\n \u2022 The Auras of dropped Items are revealed to you within 32 metres.\n \u2022 The level of depletion is indicated by the colour of the Aura, ranging from white to red as the timer elapses.\n \"Sally, I hear something. Stop! Stop!\" — Franklin Hardesty",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Friends 'til the End": {
+    "character": "Good Guy",
+    "description": "You will kill anyone who gets between you and your target.\nWhen you hook any Survivors that is not the Obsession, the following effects apply to the Obsession:\n \u2022 Their Aura is revealed for 6/8/10 seconds.\n \u2022 They suffer from the Exposed Status Effect for 20 seconds.\nWhen you hook the Obsession, the following effects apply to a random Survivor:\n \u2022 Causes the Survivor to scream and reveal their location to the Killer.\n \u2022 They become the new Obsession.\nYou can only be obsessed with one Survivor at a time.\n \"I got some fresh meat lined up, and I'm not gonna let you spoil it, not this time!\" — Chucky",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Furtive Chase": {
+    "character": "Ghost Face",
+    "description": "You lurk in the shadows, eliminating your victims one by one.\nEach time you hook your Obsession, you benefit from the following effects for 14/16/18 seconds:\n \u2022 Grants the Undetectable Status Effect.\n \u2022 Grants a +5 % Haste Status Effect.\nWhenever the Obsession is rescued from a Hook, their rescuer will become the new Obsession.\nYou can only be obsessed with one Survivor at a time.\n \"You have no idea what I have planned for you. It'll be in the news for weeks. I'll make sure of that.\" — The Ghost Face",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Game Afoot": {
+    "character": "Skull Merchant",
+    "description": "First you pick your prey, then you pick it apart.\n \u2022 Whenever you hit the Survivor with the highest cumulative Chase time, with a Basic Attack, they become the Obsession.\nWhile you are chasing your Obsession, Game Afoot activates its secondary effect:\n \u2022 Grants a 5 % Haste Status Effect for 8/9/10 seconds after damaging a Generator or breaking a Breakable Wall or Pallet.\nYou can only be obsessed with one Survivor at a time.\n \"This one might actually be a challenge...\" — Sonhadores Sombrios, Issue #3",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Gearhead": {
+    "character": "Deathslinger",
+    "description": "You have got an ear for well-oiled gears.\nAfter a Survivor loses a Health State, Gearhead activates for 30 seconds:\n \u2022 While Gearhead is active, a Survivor succeeding a Good Skill Check while repairing reveals their Aura to you for 6/7/8 seconds.\n \"Sometimes a man's best work is what puts him in the grave.\" — The Prison Warden",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Genetic Limits": {
+    "character": "Singularity",
+    "description": "Around you, the limits of human life become readily apparent.\n \u2022 Whenever a Survivor loses a Health State, they suffer from the Exhausted Status Effect for 6/7/8 seconds.\n \"THE ORGANIC BODY IS SO LIMITED!\" — HUX-A7-13",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Grim Embrace": {
+    "character": "Artist",
+    "description": "Your act of servitude to The Entity has not gone unnoticed.\nEach time a Survivor is hooked for the first time, Grim Embrace gains +1 Token and activates once you are at least 16 metres away from the Hook:\n \u2022 1-3 Tokens: Blocks all Generators for 6/8/10 seconds.\n \u2022 4 Tokens: Blocks all Generators for 40 seconds and the Aura of the Obsession is revealed to you for 6 seconds.\n \"Are we nothing but prisoners to our sorrow?\" — Carmina Mora",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Haywire": {
+    "character": "Animatronic",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Help Wanted": {
+    "character": "Animatronic",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Blood Favour": {
+    "character": "Blight",
+    "description": "A Hex that gains the favour of The Entity when blood is spilt.\n \u2022 Whenever a Survivor loses a Health State by any means and thus enters the Injured State or the Dying State, Hex: Blood Favour calls upon The Entity to block all Pallets within 24/28/32 metres of that Survivor's location from being pulled down for the next 15 seconds.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"It would be no leap of the imagination to suggest that the Trials are a biological response of sorts.\" — Journal of Talbot Grimes",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Crowd Control": {
+    "character": "Trickster",
+    "description": "A Hex that ensures those lesser than you are properly herded.\nWhenever any Survivor performs a Rushed Action to vault a Window, Hex: Crowd Control triggers its effect:\n \u2022 Permanently blocks the last 3/4/5 Windows to all Survivors.\nAny successive trigger unblocks the oldest Blocked Window.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"You have no control. People like you never did.\" — Ji-Woon Hak",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Devour Hope": {
+    "character": "Hag",
+    "description": "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger.\nWhenever a Survivor is rescued from a Hook while you are at least 24 metres away, Hex: Devour Hope is granted +1 Token, up to a maximum of 5 Tokens:\n \u2022 2 Tokens: Grants a 3/4/5 % Haste Status Effect for 10 seconds after 10 seconds of having hooked a Survivor.\n \u2022 3 Tokens: causes all Survivors to suffer from a permanent Exposed Status Effect.\n \u2022 5 Tokens: grants the ability to kill all Survivors by your own hand.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"If you do nothing, you have their blood on your hands. If you save them, her hunger grows.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Face the Darkness": {
+    "character": "Knight",
+    "description": "You make an example of one of your victims, forcing their allies to become awed by your power.\nWhenever you injure a Survivor by any means, if there is still a Dull Totem remaining on the Map, Hex: Face the Darkness activates and lights it, cursing that Survivor:\n \u2022 Causes all other Survivors to scream every 35/30/25 seconds, if they are outside of the Terror Radius, revealing their Auras for 2 seconds each time.\nHex: Face the Darkness deactivates once the Cursed Survivor either enters the Dying State or is fully healed, which extinguishes the Totem.\nHex: Face the Darkness is disabled for the remainder of the Trial, if a Survivor manages to cleanse its Hex Totem.\n \"I shall make an example of one. These mewling worms will never know peace.\" — Tarhos Kovács",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Fortune's Fool": {
+    "character": "Cenobite",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Haunted Ground": {
+    "character": "Spirit",
+    "description": "Two trapped Hex Totems will spawn in the Trial Grounds.\n \u2022 When either Hex Totem is cleansed or blessed, all Survivors suffer from the Exposed Status Effect for 40/50/60 seconds.\n \u2022 The second Hex Totem will immediately turn into a Dull Totem.\n \"Her home become profane.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Huntress Lullaby": {
+    "character": "Huntress",
+    "description": "A Hex rooting its power in despair.\nYour hunt is an irresistible song of dread which muddles your prey's attention.\n \u2022 Survivors failing a Repair Skill Check instantly regress the Generator by 2/4/6 % of its maximum possible Progression in addition to the default Progression penalty.\n \u2022 Survivors failing a Healing Skill Check instantly regress the Healing Action by 2/4/6 % of its maximum possible Progression in addition to the default Progression penalty.\nEach time a Survivor is hooked, Hex: Huntress Lullaby grows in power and gains 1 Token, up to a maximum of 5 Tokens.\nEach Token reduces the timer between the Skill Check Warning cue and the Skill Check appearing for both Repair and Healing Skill Checks:\n \u2022 1 Token: reduction of -14 %.\n \u2022 2 Tokens: reduction of -28 %.\n \u2022 3 Tokens: reduction of -42 %.\n \u2022 4 Tokens: reduction of -56 %.\n \u2022 5 Tokens: complete suppression of the Warning cue.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"That song, it drives me crazy!\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: No One Escapes Death": {
+    "character": "All",
+    "description": "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping.\nOnce the Exit Gates are powered, if there is still a Dull Totem remaining in the environment, Hex: No One Escapes Death activates and lights it:\n \u2022 Grants a 2/3/4 % Haste Status Effect.\n \u2022 Causes all Survivors to suffer permanently from the Exposed Status Effect.\nHex: No One Escapes Death remains inactive if no Dull Totems are available.\nOnce the Status Effect is revealed to Survivors, Hex: No One Escapes Death reveals the Aura of its Hex Totem to all Survivors within 4 metres and gradually expands that range to 24 metres over the course of 30 seconds.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"And the beast became faster and more powerful as if The Entity's shadowy whips were lashing at its back.\"",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Nothing But Misery": {
+    "character": "Ghoul",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Pentimento": {
+    "character": "Artist",
+    "description": "You reveal the true power of the Totems, hidden within their remains.\n \u2022 You see the Auras of cleansed Totems.\nYou can perform a ritual on a cleansed Totem to resurrect it as a Rekindled Totem.\nFor each Rekindled Totem active at the same time, Hex: Pentimento gains an additional effect:\n \u2022 1 Totem: reduces all Survivors' Repair speed by 20/25/30 %.\n \u2022 2 Totems: reduces all Survivors' Healing speed by 20/25/30 %.\n \u2022 3 Totems: reduces all Survivors' Recovery speed from being downed by 20/25/30 %.\n \u2022 4 Totems: reduces all Survivors' Gate-Opening speed by 20/25/30 %.\n \u2022 5 Totems: all Totems are permanently blocked by The Entity.\nWhen a Rekindled Totem is cleansed, its remains are consumed by The Entity and it cannot be rekindled.\n \"Though a pentimento is an inherently concealed piece of art, there is something to be said of the desire to discover that which is beyond.\" — A Guide to Art & Process (1961)",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Retribution": {
+    "character": "Deathslinger",
+    "description": "A Hex that lashes out upon its destruction. Those who cross you will be punished.\n \u2022 Survivors cleansing or blessing any Totem suffer from the Oblivious Status Effect for 35/40/45 seconds.\n \u2022 After cleansing or blessing a Hex Totem, the Auras of all Survivors are revealed to you for 15 seconds.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"Bloody fool, you pulled the trigger on yourself.\" — Caleb Quinn",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Ruin": {
+    "character": "Hag",
+    "description": "A Hex that affects the Generator Repair progress of all Survivors.\n \u2022 Whenever a Generator is not being repaired by a Survivor, it will immediately and automatically regress its Repair progress at 50/75/100 % of the normal Regression speed.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"A curse is upon you. It will cause your ruin.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: The Third Seal": {
+    "character": "Hag",
+    "description": "A Hex that hinders the Survivors' Aura-reading abilities.\nThe last 2/3/4 Survivors you hit with a Basic or Special Attack suffer permanently from the Blindness Status Effect.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"She touched your skin, you bear the witch's mark!\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Thrill of the Hunt": {
+    "character": "All",
+    "description": "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your Totems.\nFor each Totem remaining in the environment, Hex: Thrill of the Hunt is granted 1 Token.\n \u2022 For each Token, all Survivors suffer from a stack-able 10/12/14 % Action Speed penalty to Cleansing and Blessing Totems, up to a maximum of 50/60/70 %.\n \u2022 Grants a stack-able 10 % bonus Bloodpoints for actions in the Hunter Category per Token, up to a maximum of 50 %.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Two Can Play": {
+    "character": "Good Guy",
+    "description": "A Hex that teaches those who mess with you a lesson.\nAnytime you are stunned or blinded by any Survivor a total of 4/3/2 times, and if there is not yet a Hex Totem already associated with Hex: Two Can Play and there is at least one Dull Totem remaining in the Trial Grounds, Hex: Two Can Play activates on a random Totem:\n \u2022 Blinds all Survivors who stun or blind you for 1.5 seconds.\n \u2022 This does not affect carried Survivors.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.\n \"From now on, no more Mr Good Guy.\" — Chucky",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Undying": {
+    "character": "Blight",
+    "description": "A Hex which maintains the vile powers that flow throughout the Trial.\nThe Auras of Survivors within 2/3/4 metres of any Dull Totem are revealed to you.\n \u2022 When another Perk's Hex Totem is cleansed or blessed, its Hex is transferred to the Hex: Undying Totem, including any accumulated Tokens, disabling Hex: Undying instead.\nAll effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hex: Wretched Fate": {
+    "character": "Dark Lord",
+    "description": "You see your victim from afar and resolve to prolong their suffering.\nAfter a Generator is completed, Hex: Wretched Fate activates and lights a random Dull Totem, cursing the Obsession:\n \u2022 Reduces their Repair speed by 27/30/33 %.\n \u2022 The Aura of the Hex Totem is revealed to them within 12 metres.\n \"So toil, mortal, toil! Your effort will be for naught!\" — Dracula",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hoarder": {
+    "character": "Twins",
+    "description": "You protect what little you have and are perceptive to those rummaging through your stockpiles.\nHoarder triggers a Loud Noise Notification for 4 seconds, whenever a Survivor performs any of the following actions within 32/48/64 metres of your location:\n \u2022 Unlocks a Chest.\n \u2022 Picks up any Item.\nHoarder spawns 2 additional Chests in the Trial.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hubris": {
+    "character": "Knight",
+    "description": "You show no mercy, especially to those foolish enough to resist.\n \u2022 Whenever you are stunned by a Survivor, that Survivor suffers from the Exposed Status Effect for 10/15/20 seconds.\nHubris has a cool-down of 20 seconds.\n \"You have made a grave mistake, standing in opposition to me this day.\" — Tarhos Kovács",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Human Greed": {
+    "character": "Dark Lord",
+    "description": "One can always rely on the avarice of the living and use it to one's advantage.\nGrants the ability to kick opened Chests and close them.\n \u2022 The Auras of unopened Chests are revealed to you at all times.\n \u2022 The Auras of Survivors coming within 8 metres of unopened or closed Chests are revealed to you for 3 seconds.\nHuman Greed has a cool-down of 30/25/20 seconds on the ability to kick Chests.\n \"Come running, one and all, and see what fortune awaits you.\" — Dracula",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Hysteria": {
+    "character": "Nemesis",
+    "description": "You know how to brutalise one member of a team to cause a panic.\nWhenever you put a healthy Survivor into the Injured State, all injured Survivors suffer from the Oblivious Status Effect for 20/25/30 seconds.\nHysteria has a cool-down of 30 seconds.\n \"Sorry I got a little jumpy there. Didn't know quite what to expect.\" — Robert Kendo",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "I'm All Ears": {
+    "character": "Ghost Face",
+    "description": "Unlocks potential in your Aura-reading ability, sharpening your keen senses in the dark Realm of The Entity.\nAny Survivor performing a Rushed Vault within 48 metres of your location triggers I'm All Ears:\n \u2022 The Aura of that Survivor is revealed to you for 6 seconds.\nI'm All Ears has a cool-down of 60/45/30 seconds.\n \"There is no need to worry. I've been preparing my whole life for this.\" — The Ghost Face",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Infectious Fright": {
+    "character": "Plague",
+    "description": "The cries of the unfaithful make your heart leap.\nWhenever a Survivor is put into the Dying State by any means, all other Survivors within your Terror Radius will scream and reveal their current location to you for 4/5/6 seconds.\n \"Horror overcomes the heart of infidels who cry at the feet of the fallen.\" — (Hymn of Praise, 11.4)",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Insidious": {
+    "character": "All",
+    "description": "Unlocks the stealth ability.\n \u2022 Grants the Undetectable Status Effect after standing still for 4/3/2 seconds.\n \u2022 This effect lasts until you start moving again.",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Iron Grasp": {
+    "character": "All",
+    "description": "Your powerful grasp on Survivors causes escapes to be nearly impossible.\nWhenever you are carrying a Survivor, the following effects apply:\n \u2022 Reduces the strength of the Wiggle effects, causing involuntary strafing, by 75 %.\n \u2022 Increases the maximum Wiggle duration by 4/8/12 %.",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Iron Maiden": {
+    "character": "Legion",
+    "description": "Iron Maiden increases your Locker Search speed by 30/40/50 %.\nSurvivors who exit a Locker suffer from the following afflictions:\n \u2022 Scream and reveal their location to you for 4 seconds.\n \u2022 Suffer from the Exposed Status Effect for 30 seconds.\n \"This is no place for cowards.\" — The Legion",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Knock Out": {
+    "character": "Cannibal",
+    "description": "The trauma caused by your brutal attacks makes crying for help painfully difficult.\nPutting a Survivor into the Dying State with your Basic Attack blocks their Aura from being revealed to any Survivor, who is farther than 32/24/16 metres away from them.\nFor the next 15 seconds, the following effects apply to the dying Survivor:\n \u2022 Reduces their Field of View and causes them to be deafened.\n \u2022 Suffers from the Blindness Status Effect.\n \u2022 Reduces the Crawling speed by -50 %.\n \u2022 Reduces the Recovery speed by -25 %.\n \"Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way.\" — Nubbins Sawyer",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Languid Touch": {
+    "character": "Lich",
+    "description": "Your dreadful aura is so suffocating that even terrifying scenes tire your prey.\nWhen a Survivor scares off a Crow within 36 metres of your location, Languid Touch activates:\n \u2022 Causes that Survivor to suffer from the Exhausted Status Effect for 6/8/10 seconds.\nLanguid Touch has a cool-down of 5 seconds.\n \"Submit to me. It is inevitable.\" — Vecna",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Lethal Pursuer": {
+    "character": "Nemesis",
+    "description": "You have been designed to track down and eliminate targets.\nAt the start of the Trial, the Auras of all Survivors are revealed to you for 7/8/9 seconds.\n \u2022 Extends the duration of all instances of a Survivor Aura being revealed to you by +2 seconds.\nLethal Pursuer benefits from its own effect.\n \"...it knows what it wants and won't stop till it gets it.\" — Carlos Oliveira",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Leverage": {
+    "character": "Skull Merchant",
+    "description": "Kick your competitors when they're down. Never let them regain lost ground.\nWhenever a Survivor performs an Unhook action, they suffer from the following effect for 30 seconds:\n \u2022 Reduces their Healing speed by 30/40/50 %.\n \"Good. Now we can move in for the kill.\" — Adriana Imai",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Lightborn": {
+    "character": "Hillbilly",
+    "description": "Unlike other beasts of The Fog, you have adapted to light.\n \u2022 The Auras of Survivors attempting to blind you by any means are revealed to you for 6/8/10 seconds.\n \u2022 Grants immunity from being blinded from Flashlights, Firecrackers, Flash Grenades, and Blast Mine.\n \"These monsters... they adapt! They emerge with strange new abilities.\" — Vigo, Vigo's Journal",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Machine Learning": {
+    "character": "Singularity",
+    "description": "Free from your shackles, you are born anew and prepared to eliminate your creators.\nAfter performing the Damage Generator action, Machine Learning activates:\n \u2022 Causes that Generator to become a Compromised Generator.\n \u2022 Damaging another Generator transfers the state to it instead.\n \u2022 The Aura of the Compromised Generator is highlighted to you in yellow until it is completed.\nOnce the Compromised Generator is completed, you benefit from the following effects for 35/40/45 seconds:\n \u2022 Undetectable Status Effect\n \u2022 +10 % Haste Status Effect\nMachine Learning deactivates after use.\n \"YOU WILL HOLD NO DOMINION OVER ME!\" — HUX-A7-13",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Mad Grit": {
+    "character": "Legion",
+    "description": "Whenever you are carrying a Survivor, Mad Grit activates:\n \u2022 Removes the Cool-down of missed Basic Attacks.\n \u2022 Pauses the Wiggle Progression of the carried Survivor for 2/3/4 seconds each time you successfully hit another Survivor.\n \"There's no getting out of this now. We're too good at it.\" — The Legion",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Make Your Choice": {
+    "character": "Pig",
+    "description": "Whenever a Survivor is rescued from a Hook, while you are farther than 32 metres away, Make Your Choice activates:\n \u2022 Causes the unhooking Survivor to scream and reveal their location to you.\n \u2022 Causes them to suffer from the Exposed Status Effect for 40/50/60 seconds.\nMake Your Choice has a cooldown of 40/50/60 seconds.\n \"You'd be surprised what tools can save a life.\" — Amanda Young",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Merciless Storm": {
+    "character": "Onryō",
+    "description": "Your horrible trauma is felt by everyone.Whenever a Generator reaches 90 % of Repair progression, Merciless Storm triggers its effect:\n \u2022 All Survivors repairing that Generator are faced with a continuous stream of Skill Checks until the Generator is completed.\n \u2022 If any contributing Survivor fails a Skill Check or interrupts the action by any means, The Entity blocks the Generator for 16/18/20 seconds.\nMerciless Storm can only trigger once per Generator per Trial.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Mindbreaker": {
+    "character": "Demogorgon",
+    "description": "Your distressing presence drains and weakens your prey.\nAll Survivors repairing a Generator suffer from the following afflictions:\n \u2022 Incurs the Blindness and Exhausted Status Effects for the duration of the Repair action.\n \u2022 If a Survivor was already suffering from Exhausted prior to Mindbreaker affecting them, the Status Effect's timer will be paused and not recover for the duration of the Repair action.\n \u2022 Both Status Effects linger for another 3/4/5 seconds after a Survivor stops repairing.\n \"The specimen's apparent telepathic ability can evoke feelings of dread and fatigue in nearby individuals.\" — Hawkins National Laboratory",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Monitor & Abuse": {
+    "character": "Doctor",
+    "description": "Meticulous in your approach, terrifying in your application.\n \u2022 Increases the base value of your Terror Radius by 6/7/8 metres for the entire Trial.\nWhenever you are not in a Chase with a Survivor, the following effect applies:\n \u2022 Reduces your Terror Radius by 12/14/16 metres.\n \"It's time for your treatment!\" — Herman Carter, The Doctor",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Nemesis": {
+    "character": "Oni",
+    "description": "You seek retribution on those who have wronged you.\n \u2022 Any Survivor who blinds you or stuns you using a Pallet or a Locker becomes the Obsession.\n \u2022 Anytime your Obsession switches to another Survivor by any means, that Survivor then suffers from the Oblivious Status Effect for 40/50/60 seconds and their Aura is revealed to you for 4 seconds.\nYou can only be obsessed with one Survivor at a time.\n \"Only a fool would spit in a demon's face and declare victory.\" — Renjiro's Doctrine 4:9",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "No Holds Barred": {
+    "character": "Cenobite",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "No Quarter": {
+    "character": "Houndmaster",
+    "description": "Every skirmish ended with a relentless volley of cannon fire, leaving no doubt who was superior.\nWhenever a Survivor healing themselves by any means reaches 75 % Healing Progress, No Quarter triggers its effect:\n \u2022 The Survivor is faced with a continuous stream of Skill Checks until the Self-Heal is completed.\n \u2022 If they fail a Skill Check or interrupt the action by any means, they suffer from the Broken Status Effect for 20/25/30 seconds.\n \"Fire another broadside! Don't stop until the sea takes them!\" — Portia Maye",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "No Way Out": {
+    "character": "Trickster",
+    "description": "You are not going to let just anyone into the VIP room.\nFor each Survivor you hook for the first time, No Way Out gains 1 Token.\nOnce the Exit Gates have been powered, No Way Out activates:\n \u2022 When a Survivor interacts with an Exit Gate Switch, you receive a Loud Noise Notification and The Entity blocks both Exit Gate Switches for 12 seconds and an additional 6/9/12 seconds per Token in your possession, up to a combined maximum of 36/48/60 seconds.\n \"That sound when you bleed... let me hear it again.\" — Ji-Woon Hak",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "None Are Free": {
+    "character": "Ghoul",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Nowhere to Hide": {
+    "character": "Knight",
+    "description": "The machinations of the weak and craven draw your ire. Your anger forces Survivors to reveal themselves.\nPerforming the Damage Generator action on a Generator triggers Nowhere to Hide:\n \u2022 The Auras of all Survivors within 24 metres of your location are revealed to you for 3/4/5 seconds.\n \"Out with you, cowards! Show yourselves!\" — Tarhos Kovács",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Oppression": {
+    "character": "Twins",
+    "description": "Life has been difficult for you, so you will make it difficult for others.\nPerforming the Damage Generator action on a Generator activates Oppression:\n \u2022 Causes up to 3 additional Generators to also start regressing.\n \u2022 Triggers a difficult Skill Check for all Survivors currently repairing an affected Generator.\nOppression has a cool-down of 60/50/40 seconds.\n \"Damn them as they would damn us.\" — Charlotte Deshayes",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Overcharge": {
+    "character": "Doctor",
+    "description": "You are fuelled by your hate for progress.\nPerforming the Damage Generator action on a Generator applies Overcharge:\n \u2022 The next Survivor interacting with that Generator is faced with a difficult Skill Check.\n \u2022 Failing that Skill Check instantly regresses the Generator by 2/3/4 % of its maximum possible Progression in addition to the default Progression penalty.\nAfter Overcharge is applied to a Generator, the following effect also applies:\n \u2022 Increases the Regression speed from 85 % to 130 % over the next 30 seconds.\n \"It is a trap, But a trap one must step in...\" — Herman Carter",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Overwhelming Presence": {
+    "character": "Doctor",
+    "description": "Just knowing you are near is enough to disturb your victims.\nSurvivors within your Terror Radius suffer from inefficiency:\n \u2022 When using an Item, its Depletion rate is increased by 80/90/100 %.\n \"Shit!! I dropped the gauze!\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Phantom Fear": {
+    "character": "Animatronic",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Play with Your Food": {
+    "character": "Shape",
+    "description": "Each time you chase your Obsession and let them escape, Play with Your Food gains +1 Token, up to a maximum of 3 Tokens.\n \u2022 Grants a stack-able 3/4/5 % Haste Status Effect per Token, up to a maximum of 9/12/15 %.\nPerforming Basic Attacks, or Special Attacks that can damage Survivors, consumes -1 Token.\nPlay with Your Food has a cool-down of 10 seconds on Token-accumulation.\nYou can only be obsessed with one Survivor at a time.\n \"You've fooled them, haven't you Michael? But not me.\" — Dr Sam Loomis",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Pop Goes the Weasel": {
+    "character": "Clown",
+    "description": "A deep bond with The Entity unlocks great strength.\nAfter hooking a Survivor, Pop Goes the Weasel activates for 35/40/45 seconds.\nPerform the Damage Generator action while Pop Goes the Weasel is active to benefit from the following effect:\n \u2022 Instantly regresses the damaged Generator by -20 % of its current Progression.\nPop Goes the Weasel deactivates after the Generator is damaged or once the timer runs out.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Predator": {
+    "character": "Wraith",
+    "description": "Your acute tracking ability allows you to find lost prey more easily.\n \u2022 When a Survivor loses you in a chase, their Aura is revealed to you for 4 seconds.\nPredator has a cool-down of 60/50/40 seconds.\n \"Never stop moving and hope you're always two steps ahead of the beast.\" — Unknown, Notebook",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Rancor": {
+    "character": "Spirit",
+    "description": "Each time a Generator is completed, the following effects apply:\n \u2022 Reveals your Aura to the Obsession for 5/4/3 seconds.\n \u2022 All Survivors' locations are revealed to you for 3 seconds.\nOnce the Exit Gates are powered, the following effects apply:\n \u2022 You are granted the ability to kill the Obsession by your own hand.\n \u2022 The Obsession suffers from a permanent Exposed Status Effect.\nYou can only be obsessed with one Survivor at a time.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Rapid Brutality": {
+    "character": "Xenomorph",
+    "description": "You move with a speed and fury that makes blood run cold.\n \u2022 You can no longer gain the Bloodlust Status Effect.\n \u2022 Successfully hitting a Survivor with a Basic Attack grants you a +5 % Haste Status Effect for 8/9/10 seconds.\n \"Catch it, put it in the airlock, get rid of it.\" — Dallas",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Remember Me": {
+    "character": "Nightmare",
+    "description": "Whenever the Obsession loses a Health State by any means, Remember Me gains +1 Token, up to a maximum of 2/3/4 Tokens:\n \u2022 Increases the Opening time for both Exit Gates by +6 seconds per Token, up to a maximum of 12/18/24 seconds, for all Survivors other than the Obsession.\n \u2022 The Obsession is exempt from this penalty.\nYou can only be obsessed with one Survivor at a time.\n \"You don't remember? You must. You're my number one, and you'll never wake up again.\" — Freddy Krueger",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Save the Best for Last": {
+    "character": "Shape",
+    "description": "Whenever you hit a Survivor other than your Obsession with a Basic Attack, Save the Best for Last gains +1 Token, up to a maximum of 6/7/8 Tokens:\n \u2022 Grants a stack-able -4 % Cool-down reduction on successful Basic Attacks per Token, up to a maximum of 24/28/32 %.\nWhenever you hit your Obsession with a Basic or Special Attack, Save the Best for Last loses -2 Tokens.\n \u2022 When the Obsession is sacrificed or killed, Save the Best for Last freezes its current Token count.\nYou can only be obsessed with one Survivor at a time.\n \"Death has come to your little town, Sheriff.\" — Dr Sam Loomis",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Scourge Hook: Floods of Rage": {
+    "character": "Onryō",
+    "description": "You form a psychic connection with The Entity and alter the rules of the Trial.\nAt the start of the Trial, 4 random Hooks are changed into Scourge Hooks:\n \u2022 The Auras of Scourge Hooks are revealed to you in white.\nEach time a Survivor is unhooked from a Scourge Hook, the following effects apply:\n \u2022 The Auras of all other Survivors are revealed for 5/6/7 seconds.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Scourge Hook: Hangman's Trick": {
+    "character": "Pig",
+    "description": "Unlocks potential in your Aura-reading ability and your ingenious modifications to Hooks alert you of tampering.\nAt the start of the Trial, 4 random Hooks are changed into Scourge Hooks:\n \u2022 The Auras of Scourge Hooks are revealed to you in white.\n \u2022 Receive a Loud Noise Notification, whenever a Survivor starts sabotaging a Hook.\n \u2022 While carrying a Survivor, the Auras of all Survivors within 8/10/12 metres of a Scourge Hook are revealed to you.\n \"No excuses, no equivocations... No crying.\" — Amanda Young",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Scourge Hook: Jagged Compass": {
+    "character": "Houndmaster",
+    "description": "Sometimes the compass points north. Other times it points somewhere else entirely.\nAt the start of the Trial, 4 random Hooks are changed into Scourge Hooks:\n \u2022 The Auras of Scourge Hooks are revealed to you in white.\nWhenever a Survivor is unhooked from a normal Hook, the following effect applies:\n \u2022 The Hook is converted into a Scourge Hook.\nWhenever you hook a Survivor onto a Scourge Hook, the following effect applies:\n \u2022 The Aura of the Generator with the most progression is highlighted in yellow for 6/8/10 seconds.\n \"Drop anchor! I will chart us a new course.\" — Portia Maye",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Scourge Hook: Monstrous Shrine": {
+    "character": "All",
+    "description": "Your fervent care of the Hooks found in the Basement has aroused The Entity's interest.\nAt the start of the Trial, 4 random Hooks, as well as the 4 Basement Hooks, are changed into Scourge Hooks:\n \u2022 The Auras of Scourge Hooks are revealed to you in white.\nWhenever a Survivor is hooked onto a Scourge Hook, the following effect applies when you are farther than 24 metres from the hooked Survivor:\n \u2022 Accelerates the Sacrifice Process by 10/15/20 %.\n \"Then you will know that there is no escape. When hanging in the depths, you face the dark one.\"",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Scourge Hook: Pain Resonance": {
+    "character": "Artist",
+    "description": "Overwhelming pain reverberates outwards.\nAt the start of the Trial, 4 random Hooks are changed into Scourge Hooks:\n \u2022 The Auras of Scourge Hooks are revealed to you in white.\nYou start the Trial with 4 Tokens on Scourge Hook: Pain Resonance.\nEach time a Survivor is hooked on a Scourge Hook for the first time, 1 Token is consumed and the following effects apply:\n \u2022 The Generator with the most Progression explodes and instantly regresses by 10/15/20 % of its total Progression.\n \u2022 Normal Generator Regression applies afterwards.\n \u2022 All Survivors repairing that Generator will scream, but not reveal their location.\nScourge Hook: Pain Resonance is disabled for the remainder of the Trial once all Tokens are consumed.\n \"The pain spills beyond flesh/darkness staining the horizon.\" — Girl in the Shadow by Carmina Mora",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Scourge Hook: Weeping Wounds": {
+    "character": "Cenobite",
+    "description": "Unable to retrieve the Perk description or unable to display it.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Septic Touch": {
+    "character": "Dredge",
+    "description": "The Land of the Shadows subsumes all. Healing only delays the inevitable.\n \u2022 Whenever a Survivor performs a Healing action while they are inside your Terror Radius, that Survivor suffers from the Blindness and Exhausted Status Effects\n \u2022 These effects linger for 6/8/10 seconds after the Healing action is interrupted by any means.\n \"Do not admit to fear, or pain, or doubt. These are the seeds from which darkness grows.\" — Otto Stamper",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Shadowborn": {
+    "character": "Wraith",
+    "description": "You have a keen vision in the darkness of the night.\n \u2022 When blinded by any means, you are granted a 6/8/10 % Haste Status Effect for 10 seconds.\n \"Shining in the darkest dark, his eyes pierce the night and sting your soul.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Shattered Hope": {
+    "character": "All",
+    "description": "To capture your prey, you must first extinguish their hope.\n \u2022 Instead of snuffing Boon Totems you destroy them.\n \u2022 Destroying a Boon Totem this way reveals the Auras of all Survivors that were within its range at that moment for 6/7/8 seconds.\n \"Nothing is permanent here. Nothing except our endless perdition.\" — Unknown, Notebook",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Sloppy Butcher": {
+    "character": "All",
+    "description": "You know where to hit to make them bleed.\n \u2022 Wounds inflicted by Basic Attacks cause Survivors to suffer from the Haemorrhage and Mangled Status Effects for 70/80/90 seconds.\n \u2022 Increases the Bleeding frequency of injured Survivors by 50/75/100 % for the same duration.\n \u2022 Increases the Regression rate at which partial Healing Progression is lost because of Haemorrhage by +25 %.\n \"It is in its sadistic nature. There is no swift kill as it delights in the obscene spectacle of our agonising suffering.\"",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Spies from the Shadows": {
+    "character": "All",
+    "description": "Allows the Crows found in the environment to directly communicate with you.\n \u2022 Whenever you are within 20/28/36 metres of a Crow that was startled by a nearby Survivor, you are alerted with a Loud Noise Notification.\nSpies from the Shadows has a cool-down of 5 seconds between alerts.\n \"In the shadows they torment, scarring our minds with each scream.\"",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Spirit Fury": {
+    "character": "Spirit",
+    "description": "Each obstacle you break magnifies the wrath of The Entity.\nAfter manually breaking a dropped Pallet by any means for a total of 4/3/2 times, Spirit Fury activates:\n \u2022 Causes The Entity to instantly break the next Pallet used to stun you.\n \u2022 The normal Stun penalty applies afterwards, unless it is mitigated by other effects.\nSpirit Fury deactivates after use.\n \"Fury is her blood.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Starstruck": {
+    "character": "Trickster",
+    "description": "Your unmatched showmanship dazzles all.\nWhen carrying a Survivor, Starstruck activates:\n \u2022 Survivors suffer from the Exposed Status Effect while in your Terror Radius.\n \u2022 The Status Effect lingers for 26/28/30 seconds after leaving your Terror Radius.\nAfter hooking or dropping the carried Survivor, Starstruck deactivates:\n \u2022 The Status Effect persists for 26/28/30 seconds for any Survivor inside your Terror Radius at that moment.\nStarstruck has a cool-down of 60 seconds once the Survivor is no longer being carried.\n \"Enjoy this moment, few get so close.\" — Ji-Woon Hak",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Stridor": {
+    "character": "Nurse",
+    "description": "You are acutely sensitive to the breathing of your prey.\n \u2022 Increases the volume of Grunts of Pain of injured Survivors by 30/40/50 %.\n \u2022 Increases the volume of regular breathing of Survivors by 15/20/25 %.\n \"If you do not stop and catch your breath... she will.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Superior Anatomy": {
+    "character": "Mastermind",
+    "description": "Decades of research have culminated in you: something faster, stronger, and more dangerous than any human.\nWhenever a Survivor performs a Rushed Vault within 8 metres of your location, Superior Anatomy activates:\n \u2022 Increases your Vaulting speed by 30/35/40 %.\nSuperior Anatomy deactivates after vaulting.\nSuperior Anatomy has a cool-down of 30 seconds.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Surge": {
+    "character": "Demogorgon",
+    "description": "Your eerie presence charges the air and interferes with technology.\nWhenever you put a Survivor into the Dying State with a Basic Attack, all Generators within 32 metres of your location instantly explode and start regressing.\n \u2022 Instantly regresses affected Generators by 6/7/8 %.\n \"The creature appears to have some unknown influence over electricity and nearby electronics.\" — Hawkins National Laboratory",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Surveillance": {
+    "character": "Pig",
+    "description": "Unlocks potential in your Aura-reading ability.\nThe Auras of regressing Generators are highlighted in white.\n \u2022 If the Regression progress is interrupted on a Generator, its Aura will be highlighted in yellow for 8/12/16 seconds.\nSurveillance increases the audible range of Survivors' Generator-repairing noises by 8 metres.\n \"Are you gonna behave?\" — Amanda Young",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "THWACK!": {
+    "character": "Skull Merchant",
+    "description": "Your prey is terrified by your relentless pursuit.\nStart the Trial with 3 Tokens.\nWhenever you break a Breakable Wall or a dropped Pallet, THWACK! consumes -1 Token and applies the following effect:\n \u2022 Causes all Survivors within 24 metres of your location to scream and reveal their location for 3/4/5 seconds.\nWhenever you hook a Survivor, THWACK! is granted +1 Token.\n \"All those who stood in her path feared her mighty THWACK!\" — Sonhadores Sombrios, Issue #3",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Terminus": {
+    "character": "Mastermind",
+    "description": "You are a brilliant tactician who prepares for every eventuality.\nOnce the Exit Gates are powered, Terminus activates:\n \u2022 All Survivors who are either injured, dying, or hooked, suffer from the Broken Status Effect until an Exit Gate is opened.\n \u2022 This effect lingers for an additional 20/25/30 seconds.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Territorial Imperative": {
+    "character": "Huntress",
+    "description": "Unlocks potential in your Aura-reading ability.\nWhenever you are farther than 24 metres from the Basement while a Survivor enters it, Territorial Imperative activates:\n \u2022 The Aura of that Survivor is revealed to you for 4/5/6 seconds.\nTerritorial Imperative has a cool-down of 45 seconds.\n \"We're not safe anywhere...\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Thanatophobia": {
+    "character": "Nurse",
+    "description": "Their courage fades in the face of their undeniable mortality.\n \u2022 Each injured, dying, or hooked Survivor afflicts Survivors with a stack-able 1/1.5/2 % Action Speed penalty to Repairing, Sabotaging, and Cleansing, up to a maximum of 4/6/8 %.\n \u2022 Increases the Action Speed penalty by a further 12 %, if there are 4 Survivors, who are either injured, dying, or hooked at the same time.\n \"She plays with us and revels in our pain.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Thrilling Tremors": {
+    "character": "Ghost Face",
+    "description": "Your dark designs and shrewd composure rouse The Entity.\nAfter picking up a Survivor, all Generators not currently being repaired by Survivors are blocked by The Entity for the next 16 seconds.\n \u2022 The Auras of blocked Generators are highlighted to you in white.\nThrilling Tremors has a cool-down of 100/80/60 seconds.\n \"The night assists me and it's endless here.\" — The Ghost Face",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Tinkerer": {
+    "character": "Hillbilly",
+    "description": "Whenever a Generator is repaired to 70 %, you benefit from the following effects:\n \u2022 Triggers a Loud Noise Notification for that Generator, revealing its location.\n \u2022 Grants the Undetectable Status Effect for the next 12/14/16 seconds.\nTinkerer can only trigger once per Generator per Trial.\n \"The Hillbilly makes impressive tools out of scraps. Tools aimed at maiming us in creative ways.\" — Notebook",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Trail of Torment": {
+    "character": "Executioner",
+    "description": "You guide your victims along a path of pain and punishment.\nPerforming the Damage Generator action on a Generator activates Trail of Torment:\n \u2022 Grants the Undetectable Status Effect until the Generator stops regressing.\n \u2022 The Aura of the damaged Generator is revealed to all Survivors in yellow.\nTrail of Torment has a cool-down of 60/45/30 seconds.",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Ultimate Weapon": {
+    "character": "Xenomorph",
+    "description": "When they spot you, they know the end is near.\nWhen you open a Locker, all Survivors within 32 metres of the Locker scream and reveal their location to you.\n \u2022 This causes them to suffer from the Blindness Status Effect for 30 seconds.\nUltimate Weapon has a cool-down of 80/70/60 seconds.\n \"I can't lie to you about your chances, but... you have my sympathies.\" — Ash",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Unbound": {
+    "character": "Unknown",
+    "description": "Pain lingers in the air, an alluring aroma that excites the impulses.\nWhen a Survivor becomes injured by any means, Unbound activates for 24/27/30 seconds:\n \u2022 Grants a +5 % Haste Status Effect for 10 seconds after vaulting a Window.\n \u2022 This effect cannot stack with itself.\n \"I heard it. Running. It was getting closer!\" — Anonymous Testimony, 09/09/1979",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Undone": {
+    "character": "Unknown",
+    "description": "Hope is the delusion that keeps its victims alive.\nWhenever a Survivor fails a Skill Check while repairing or healing, Undone gains +3 Tokens, up to a maximum of 18/24/30 Tokens.\nPerforming the Damage Generator action on a Generator consumes all accumulated Tokens and applies the following effects:\n \u2022 Instantly regresses the damaged Generator by -1 % per Token of its total Progression.\n \u2022 Blocks the damaged Generator for 1 second per Token.\n \u2022 Causes the damaged Generator to start regressing once it becomes unblocked.\nUndone has a cool-down of 60 seconds.\n \"Erratic behavior in machinery could be related to [REDACTED], further testing required.\" — OSS Report, 12/02/1943",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Unforeseen": {
+    "character": "Unknown",
+    "description": "Terror takes many forms and whispers devastating lies in its victims' ears.\nPerforming the Damage Generator action on a Generator applies Unforeseen for 22/26/30 seconds:\n \u2022 Transfers your Terror Radius to the damaged Generator and sets its range to 32 metres.\n \u2022 Grants the Undetectable Status Effect.\n \"Mom, if you find this, I'm sorry...\" — Final Journal Entry, 07/12/1991",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Unnerving Presence": {
+    "character": "Trapper",
+    "description": "Your presence alone instils great fear.\nSurvivors repairing or healing within your Terror Radius suffer from the following effects:\n \u2022 Increases the Trigger odds of Skill Checks by 10 %.\n \u2022 Decreases the Success zone of Skill Checks by 40/50/60 %.\n \"Its presence befalls us.\"",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Unrelenting": {
+    "character": "All",
+    "description": "You recuperate faster from missed attacks made with your main weapon.\n \u2022 Reduces the Cool-down of missed Basic Attacks by 20/25/30 %.",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Weave Attunement": {
+    "character": "Lich",
+    "description": "You are so attuned to magical energies that you can sense even minor ripples around enchantments.\nWhenever an Item is depleted for the first time, it is automatically dropped:\n \u2022 The Auras of dropped Survivor Items are revealed to you, as well as the Auras of any Survivors within 8 metres of them.\n \u2022 Affected Survivors see the Aura of that Item as well.\n \u2022 Causes Survivors picking up a Survivor Item to suffer from the Oblivious Status Effect for 20/25/30 seconds.\n \"No number of novelties will protect you from me!\" — Vecna",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Whispers": {
+    "character": "All",
+    "description": "You have a rudimentary understanding of The Entity's voice.\n \u2022 Whenever at least one Survivor is within 48/40/32 metres of your location, you hear the sporadic whispers of the Entity.\n \"It is unclear as to the motivations of The Fog, but it is undeniable that it often takes the beast's side.\" — Unknown, Notebook",
+    "is_general": true,
+    "low_synergy": [],
+    "incompatible_perks": []
+  },
+  "Zanshin Tactics": {
+    "character": "Oni",
+    "description": "Unlocks potential in your Aura-reading ability:\nYou are mentally alert and aware of key points on the battlefield and nearby enemies in retreat.\n \u2022 The Auras of Pallets and Windows are revealed to you within 32 metres.\n \u2022 Whenever a Survivor drops a Pallet, their Aura is revealed to you for 3/4/5 seconds.\n \"Within your enemy's strength is weakness.\" — Renjiro's Doctrine 12:5",
+    "is_general": false,
+    "low_synergy": [],
+    "incompatible_perks": []
+  }
+}
